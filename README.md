@@ -19,7 +19,8 @@ For more details about usage check examples folder.
 ### TODO
 * Visualisation of convergence
 * Bad input checking
-* Refactoring
+* Add more examples
+* Parallelisation on Spark
 
 ### Acknowledgement
 I want to thank Andrew Trask for great tutorial which I used during implementation. [RNN tutorial](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
